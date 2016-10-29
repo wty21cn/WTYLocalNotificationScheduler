@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WTYLocalNotificationScheduler_Example' do
+  pod 'WTYLocalNotificationScheduler', :path => '../'
+
+  target 'WTYLocalNotificationScheduler_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
