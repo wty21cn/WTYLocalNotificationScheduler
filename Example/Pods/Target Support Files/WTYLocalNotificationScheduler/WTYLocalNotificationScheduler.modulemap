@@ -1,0 +1,6 @@
+framework module WTYLocalNotificationScheduler {
+  umbrella header "WTYLocalNotificationScheduler-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,6 +7,7 @@
 //
 
 #import "WTYViewController.h"
+#import <WTYLocalNotificationScheduler/WTYLocalNotificationScheduler.h>
 
 @interface WTYViewController ()
 

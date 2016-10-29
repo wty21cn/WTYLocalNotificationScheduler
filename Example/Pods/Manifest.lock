@@ -1,0 +1,16 @@
+PODS:
+  - WTYLocalNotificationScheduler (0.1.0)
+
+DEPENDENCIES:
+  - WTYLocalNotificationScheduler (from `../`)
+
+EXTERNAL SOURCES:
+  WTYLocalNotificationScheduler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WTYLocalNotificationScheduler: ae4daf2ff616b5c02a731ee895e15d03d8563915
+
+PODFILE CHECKSUM: 0a717083ad0d2ee978705fc5fc88edf0d0d9ca7a
+
+COCOAPODS: 1.1.1

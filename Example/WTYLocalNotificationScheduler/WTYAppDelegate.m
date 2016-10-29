@@ -7,6 +7,7 @@
 //
 
 #import "WTYAppDelegate.h"
+#import <WTYLocalNotificationScheduler/WTYLocalNotificationScheduler.h>
 
 @implementation WTYAppDelegate
 

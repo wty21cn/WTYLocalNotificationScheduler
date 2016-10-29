@@ -1,0 +1,22 @@
+{
+  "name": "WTYLocalNotificationScheduler",
+  "version": "0.1.0",
+  "summary": "A short description of WTYLocalNotificationScheduler.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/WTYLocalNotificationScheduler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tianyu Wang": "wty21cn@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/WTYLocalNotificationScheduler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WTYLocalNotificationScheduler/Classes/**/*"
+}
